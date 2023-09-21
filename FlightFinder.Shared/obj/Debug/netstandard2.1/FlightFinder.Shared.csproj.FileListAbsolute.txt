@@ -1,0 +1,9 @@
+C:\Users\Alex\RiderProjects\samples\samples\aspnetcore\blazor\FlightFinder\FlightFinder.Shared\bin\Debug\netstandard2.1\FlightFinder.Shared.deps.json
+C:\Users\Alex\RiderProjects\samples\samples\aspnetcore\blazor\FlightFinder\FlightFinder.Shared\bin\Debug\netstandard2.1\FlightFinder.Shared.dll
+C:\Users\Alex\RiderProjects\samples\samples\aspnetcore\blazor\FlightFinder\FlightFinder.Shared\bin\Debug\netstandard2.1\FlightFinder.Shared.pdb
+C:\Users\Alex\RiderProjects\samples\samples\aspnetcore\blazor\FlightFinder\FlightFinder.Shared\obj\Debug\netstandard2.1\FlightFinder.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\RiderProjects\samples\samples\aspnetcore\blazor\FlightFinder\FlightFinder.Shared\obj\Debug\netstandard2.1\FlightFinder.Shared.AssemblyInfoInputs.cache
+C:\Users\Alex\RiderProjects\samples\samples\aspnetcore\blazor\FlightFinder\FlightFinder.Shared\obj\Debug\netstandard2.1\FlightFinder.Shared.AssemblyInfo.cs
+C:\Users\Alex\RiderProjects\samples\samples\aspnetcore\blazor\FlightFinder\FlightFinder.Shared\obj\Debug\netstandard2.1\FlightFinder.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Alex\RiderProjects\samples\samples\aspnetcore\blazor\FlightFinder\FlightFinder.Shared\obj\Debug\netstandard2.1\FlightFinder.Shared.dll
+C:\Users\Alex\RiderProjects\samples\samples\aspnetcore\blazor\FlightFinder\FlightFinder.Shared\obj\Debug\netstandard2.1\FlightFinder.Shared.pdb
